@@ -42,7 +42,7 @@ body {
 .avatar {
     width: 40%;
     border-radius: 11px;
-    transition: 1s;
+    transition: 0.15s;
     
 }
 
@@ -53,6 +53,7 @@ body {
 .scrimba-logo {
     width: 40%;
     border-radius: 11px;
+    transition: 0.15s;
    
 }
 
